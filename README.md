@@ -1,8 +1,8 @@
 Cleanup your Portfolio Project
  
 AUTHORS
-JULIET NDLAMINI
-EMMANUEL EDUKE
+JULIET NDLAMINI( http://linkedin.com/in/juliet-ndlamini-753761138)
+EMMANUEL EDUKE(https://www.linkedin.com/in/emmyeduke)
 
 PYTHON PROGRAM TO CREATE BANKACCOUNT CLASS WITH DEPOSIT, WITHDRAW FUNCTION
 
